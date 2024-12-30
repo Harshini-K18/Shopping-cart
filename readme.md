@@ -15,6 +15,6 @@ Along with this, additional managerial features are present too, which allows th
 4) Renewing the old stock as necessary.
 
 
-#Warning:
+**Warning:**
 This code is not of latest version and may not run in latest c compilers
-#Suggestions to run the code: https://www.onlinegdb.com/ , Dev C, Code Blocks.
+**Suggestions to run the code:** https://www.onlinegdb.com/ , Dev C, Code Blocks.
