@@ -16,5 +16,6 @@ Along with this, additional managerial features are present too, which allows th
 
 
 **Warning:**
-This code is not of latest version and may not run in latest c compilers
+This code is not of latest version and may not run in latest c compilers  
+
 **Suggestions to run the code:** https://www.onlinegdb.com/ , Dev C, Code Blocks.
